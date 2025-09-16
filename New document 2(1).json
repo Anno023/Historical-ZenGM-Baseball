@@ -714,7 +714,7 @@
 {"id":653,"type":"teamInfo","season":2019,"phase":0,"info":{"tid":27,"cid":1,"did":5,"region":"Miami","name":"Marlins","abbrev":"MIA","pop":0.4,"stadiumCapacity":36742,"colors":["#01a6e1","#ffffff","#074f81"],"imgURL":"https://sportslogohistory.com/wp-content/uploads/2018/11/miami_marlins_2019-pres.png","imgURLSmall":"https://sportslogohistory.com/wp-content/uploads/2018/11/miami_marlins_2019-pres_a.png"}},
 
 {"id":654,"type":"expansionDraft","season":1997,"phase":4,"info":{"teams":[
-	{"tid":28,"region":"Arizona","name":"Diamondbackss","abbrev":"ARI","cid":1,"did":3,"pop":1.0,"stadiumCapacity":48500,"colors":["#002a5c","#ffffff","#e31736"],"jersey":"jersey2","imgURL":"https://sportslogohistory.com/wp-content/uploads/2017/12/arizona_diamondbacks_1998-2006.png","imgURLSmall":""},
+	{"tid":28,"region":"Arizona","name":"Diamondbacks","abbrev":"ARI","cid":1,"did":3,"pop":1.0,"stadiumCapacity":48500,"colors":["#002a5c","#ffffff","#e31736"],"jersey":"jersey2","imgURL":"https://sportslogohistory.com/wp-content/uploads/2017/12/arizona_diamondbacks_1998-2006.png","imgURLSmall":""},
 {"tid":29,"region":"Tampa Bay","name":"Devil Rays","abbrev":"TBD","cid":0,"did":2,"pop":0.3,"stadiumCapacity":45369,"colors":["#008ca8","#c4ced4","#000000"],"jersey":"jersey2","imgURL":"https://sportslogohistory.com/wp-content/uploads/2017/12/tampa_bay_devil_rays_1998-2000.png","imgURLSmall":""}]}},
 
 {"id":655,"type":"teamInfo","season":2002,"phase":0,"info":{"tid":28,"cid":1,"did":3,"region":"Arizona","name":"Diamondbacks","abbrev":"ARI","pop":1.3,"stadiumCapacity":49033,"colors":["#01a6e1","#ffffff","#074f81"],"imgURL":"https://sportslogohistory.com/wp-content/uploads/2017/12/arizona_diamondbacks_1998-2006.png"}},
